@@ -4,6 +4,7 @@ html {
 }
 
 body {
+    color: #161616;
     color: var(--text-color);
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
@@ -12,6 +13,7 @@ body {
 }
 
 a[href] {
+    color: #161616;
     color: var(--text-color);
     text-decoration: none;
 }
@@ -25,7 +27,7 @@ a[href]:hover {
 }
 
 a[href]:active {
-    background-color: var(--color-light-grey);
+    background: var(--color-light-grey);
 }
 
 .visually-hidden {
