@@ -13,7 +13,6 @@ body {
 }
 
 a[href] {
-    color: #161616;
     color: var(--text-color);
 }
 
