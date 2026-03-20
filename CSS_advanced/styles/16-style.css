@@ -413,7 +413,7 @@ a:active {
 }
 
 .container {
-    font-weight: 960;
+    width: 960;
     margin-left: auto;
     margin-right: auto;
 }
